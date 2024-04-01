@@ -17,16 +17,12 @@
     <img src="https://img.shields.io/badge/-Email-blue?style=plastic&logo=gmail&logoColor=white">
 </a>
 <a href="https://youtube.com/@FluffywareLabs">
-    <img src="https://img.shields.io/badge/YouTube-Ki77y666-purple?style=plastic&logo=youtube&logoColor=white">
+    <img src="https://img.shields.io/badge/YouTube-Fluffyware%20Labs-purple?style=plastic&logo=youtube&logoColor=white">
 </a>
 <a href="https://paypal.me/Ki77y666/">
-    <img src="https://img.shields.io/badge/PayPal-Ki77y666-blue?style=plastic&logo=paypal&logoColor=white">
+    <img src="https://img.shields.io/badge/PayPal-Fluffyware%20Labs-blue?style=plastic&logo=paypal&logoColor=white">
 </a>
 <br/>
-<a href="https://github.com/Fluffyware-Labs">
-    <img src="https://github-stats-alpha.vercel.app/api?username=Fluffyware-Labs&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-</a>
-</p>
 
 ### 🛠️ Projects
 <table>
@@ -39,17 +35,7 @@
 | [Waifucord theme](https://github.com/Fluffyware-Labs/Waifucord-theme) | <img alt="Stars" src="https://img.shields.io/github/stars/Fluffyware-Labs/Waifucord-theme?style=plastic&labelColor=black"/> | ![CSS](https://img.shields.io/badge/CSS-black?style=plastic&logo=csswizardry)|
 | [Steam Game Store Page Video Download Enabler](https://github.com/Fluffyware-Labs/Steam-Game-Store-Page-Video-Download-Enabler) | <img alt="Stars" src="https://img.shields.io/github/stars/Fluffyware-Labs/Steam-Game-Store-Page-Video-Download-Enabler?style=plastic&labelColor=black"/> | ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=plastic&logo=javascript)|
 
-</td></tr> </table>
+</td></tr>
+</table>
 
-<details>
-<summary>📈 Stats</summary>
-<br>
-My Github Stats
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fluffyware-Labs&theme=dracula) 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fluffyware-Labs&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fluffyware-Labs&theme=dracula)
-
-
-<br>
+</p>
