@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Twitter-Fluffyware%20Labs-blue?style=plastic&logo=Twitter&logoColor=white">
 </a>
 <a href="https://www.facebook.com/FluffywareLabs/">
-    <img src="https://img.shields.io/badge/Facebook-Fluffyware%20Labs-pruple?style=plastic&logo=facebook&logoColor=white">
+    <img src="https://img.shields.io/badge/Facebook-Fluffyware%20Labs-purple?style=plastic&logo=facebook&logoColor=white">
 </a>
 <a href="mailto:fluffywarelabs@gmail.com">
     <img src="https://img.shields.io/badge/-Email-blue?style=plastic&logo=gmail&logoColor=white">
