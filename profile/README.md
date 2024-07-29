@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Discord-Fluffyware%20Labs-purple?style=plastic&logo=discord&logoColor=white">
 </a>
 <a href="https://twitter.com/FluffywareLabs">
-    <img src="https://img.shields.io/badge/Twitter-Fluffyware%20Labs-blue?style=plastic&logo=Twitter&logoColor=white">
+    <img src="https://img.shields.io/badge/X%20%28Twitter%29-Fluffyware%20Labs-blue?style=plastic&logo=x&logoColor=white">
 </a>
 <a href="https://www.facebook.com/FluffywareLabs/">
     <img src="https://img.shields.io/badge/Facebook-Fluffyware%20Labs-purple?style=plastic&logo=facebook&logoColor=white">
